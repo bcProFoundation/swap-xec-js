@@ -1,5 +1,5 @@
 {
-  "name": "swap-bch-js",
+  "name": "swap-xec-js",
   "version": "2.1.0",
   "description": "Signal, Watch and Pay (SWaP) Protocol on the Bitcoin Cash blockchain",
   "main": "index.js",
@@ -37,6 +37,8 @@
   "dependencies": {
     "@improbable-eng/grpc-web-react-native-transport": "^0.13.0",
     "buffer-reverse": "^1.0.1",
+    "chronik-client": "^0.8.1",
+    "ecashaddrjs": "^1.0.7",
     "eccrypto-js": "^4.3.5",
     "grpc-bchrpc-web": "^0.10.5",
     "i": "^0.3.6",
