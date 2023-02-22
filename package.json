@@ -1,5 +1,5 @@
 {
-  "name": "swap-bch-js",
+  "name": "swap-xec-js",
   "version": "2.1.0",
   "description": "Signal, Watch and Pay (SWaP) Protocol on the Bitcoin Cash blockchain",
   "main": "index.js",
